@@ -1,5 +1,7 @@
 <h3 align="center">hello there</h3>
 
+![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=korrykatti)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korrykatti&label=Profile%20views&color=0e75b6&style=flat" alt="korrykatti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korrykatti" alt="korrykatti" /></a> </p>
