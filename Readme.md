@@ -1,4 +1,6 @@
 big plans , limited time
 
-<figure><embed src="https://wakatime.com/share/@korrykatti/8831bbd4-9a49-4298-9e0c-3c4a08f8ffa0.svg"></embed></figure>
+deleted a lot of repos
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@korrykatti/932e0f4a-32f5-42f3-8287-07f1ecf44e20.png" /></a>
 
